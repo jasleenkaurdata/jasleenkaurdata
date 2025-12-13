@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Jasleen 👋
 
-<!--
-**jasleenkaurdata/jasleenkaurdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year engineering student aspiring to become a Data Analyst.
 
-Here are some ideas to get you started:
+### Skills I'm building
+- Excel (Data Cleaning, Pivot Tables)
+- SQL (Queries, Joins)
+- Python (pandas, numpy, matplotlib)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What you'll find here
+- Data analysis projects
+- SQL practice problems
+- Exploratory data analysis notebooks
+
+📌 Currently focused on strengthening my foundations and building real-world projects.
+
