@@ -1,17 +1,45 @@
-## Hi, I'm Jasleen 👋
+# Hi, I'm Jasleen 👋
 
-I'm a second-year engineering student aspiring to become a Data Analyst.
+Aspiring Data Analyst and Engineering Student passionate about transforming raw data into meaningful business insights.
 
-### Skills I'm building
-- Excel (Data Cleaning, Pivot Tables)
-- SQL (Queries, Joins)
-- Python (pandas, numpy, matplotlib)
-- PowerBI
+## Skills
 
-### What you'll find here
-- Data analysis projects
-- SQL practice problems
-- Exploratory data analysis notebooks
+- SQL
+- Excel
+- Power BI
+- Data Cleaning
+- Data Visualization
+- Python (Learning)
 
-📌 Currently focused on strengthening my foundations and building real-world projects.
+## Featured Projects
+
+### Retail Sales Analysis
+End-to-end data analytics project using SQL and Power BI.
+
+Key Highlights:
+- Revenue Analysis
+- Customer Segmentation
+- Product Performance Analysis
+- Return & Cancellation Analysis
+- Interactive Dashboard Development
+
+### Tamtara Restaurant Website
+Restaurant website prototype developed using AI-assisted development and frontend customization.
+
+Key Highlights:
+- Responsive Design
+- Frontend Customization
+- Website Deployment
+- Client-Focused Development
+
+## Currently Learning
+
+- Python for Data Analytics
+- Advanced SQL
+- Tableau
+- Data Storytelling
+
+## Goal
+
+To secure a Data Analytics internship and build industry-level analytical projects.
 
